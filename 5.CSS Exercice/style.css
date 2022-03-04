@@ -27,7 +27,6 @@ DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
 
 /* Make the <em> in the 3rd <div> element white and 20px font(font-size:20px)*/
 
-
 /*BONUS CHALLENGES*/
 /*You may need to research some other selectors and properties*/
 
@@ -42,6 +41,7 @@ DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
 /*Make the <a> element's that have been visited gray */
 
 /* Solution */
+
 body{
     background-color: #0fcf90;
 }
