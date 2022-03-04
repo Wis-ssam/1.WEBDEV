@@ -95,6 +95,7 @@ div:nth-last-of-type(3) em{
 }
 
 /* Bonus challenges Solution */
+
 input:checked{
     margin-left: 50px;
 }
